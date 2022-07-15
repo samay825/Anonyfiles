@@ -1,5 +1,5 @@
 # Anonyfiles -Upload Anonymous
-<img src="Zorkrepo.png"><br>
+<img src="Zorkbhai.png"><br>
 
 
 
@@ -26,7 +26,7 @@
 
 * `No missing API issues, all files will be uploaded.`
 
-*  For Contact Instagram : sincryptzork or vaimpier_ritik 
+*  For Contact Instagram : sincryptzork 
 
 <br>
 
